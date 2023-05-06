@@ -4,7 +4,7 @@ Backend: FastAPI + MySQL
 
 Frontend: Next.js + React.js + tailwind
 
-
+### Note:
 
 engine = create_engine("mysql+pymysql://user:password@localhost:3306/database")
 
